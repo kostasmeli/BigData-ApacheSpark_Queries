@@ -1,7 +1,7 @@
 # BigData-ApacheSpark_Queries
 Executing Queries on Big Datasets With Apache Spark &amp; Apache Kafka\
-[Dataset Can be Found Here](https://www.kaggle.com/grouplens/movielens-20m-dataset) \
-Queries:\
+[Dataset Can be Found Here](https://www.kaggle.com/grouplens/movielens-20m-dataset)\
+Queries:
 1. Give the number of users who watched the movie “Jumanji”.
 2. Give the names of movies that users rated as “boring”.
 3. Give the users who have tagged the movie as “Bollywood” and the have evaluated with a grade >3.
